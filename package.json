@@ -1,0 +1,31 @@
+{
+  "name": "gulp-action-comment",
+  "version": "0.0.1",
+  "description": "Gulp plugin to action-comment",
+  "main": "action-comment.js",
+  "dependencies": {
+    "action-comment": "^0.0.4",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-util": "^3.0.8",
+    "map-stream": "^0.0.6",
+    "through2": "^2.0.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhilippeAssis/gulp-actionComment.git"
+  },
+  "keywords": [
+    "gulp",
+    "plugin",
+    "action",
+    "comment"
+  ],
+  "author": "Philippe Assis <assis@philippeassis.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhilippeAssis/gulp-actionComment/issues"
+  },
+  "homepage": "https://github.com/PhilippeAssis/gulp-actionComment#readme"
+}
