@@ -2,7 +2,7 @@
   "name": "gulp-action-comment",
   "version": "0.0.1",
   "description": "Gulp plugin to action-comment",
-  "main": "action-comment.js",
+  "main": "index.js",
   "dependencies": {
     "action-comment": "^0.0.4",
     "gulp": "^3.9.1",
